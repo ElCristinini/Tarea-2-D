@@ -9,22 +9,17 @@ Responde usando la API de DeepSeek y está hecho con Python y mucho amor 💖
 ## 🛠️ PASO A PASO: Cómo se desarrolló
 
 ---
+## 📁 1. Crear la carpeta del proyecto
+mkdir Tarea-2-D.
 
-### 📁 1. Crear la carpeta del proyecto
+cd Tarea-2-D.
 
-```bash
-mkdir TAREA_2_ANIME
-cd TAREA_2_ANIME
-✍️ 2. Crear el archivo del bot
-bash
-Copiar
-Editar
+---
+## ✍️ 2. Crear el archivo del bot
 nano chatbot.py
-Y pegar el siguiente código:
 
-python
-Copiar
-Editar
+Ahora se crea el codigo, que quedaria de la siguiente manera:
+
 import requests
 
 API_KEY = "sk-53751d5c6f344a5dbc0571de9f51313e"
@@ -55,54 +50,54 @@ def chat():
         mensajes.append({"role": "assistant", "content": reply})
 
 chat()
-🧪 3. Crear entorno virtual
-bash
-Copiar
-Editar
+---
+## 🧪 3. Crear entorno virtual
+
 python3 -m venv venv
-▶️ 4. Activar entorno virtual
-bash
-Copiar
-Editar
+
+---
+## ▶️ 4. Activar entorno virtual
+
 source venv/bin/activate
-📦 5. Instalar dependencias
-bash
-Copiar
-Editar
+
+---
+## 📦 5. Instalar dependencias
+
 pip install requests
-🤖 6. Ejecutar el chatbot
-bash
-Copiar
-Editar
+
+---
+## 🤖 6. Ejecutar el chatbot
+
 python chatbot.py
-Escribe salir para finalizar la conversación.
 
-🚫 7. Crear archivo .gitignore
-bash
-Copiar
-Editar
+---
+## 🚫 7. Crear archivo .gitignore
+
 nano .gitignore
-Y escribir:
 
-markdown
-Copiar
-Editar
+Y ahora se pega:
+
 venv/
-_pycache_/
+__pycache__/
 *.pyc
-🧷 SUBIR A GITHUB
+
+
+---
+## 🧷 SUBIR A GITHUB
 8. Inicializar repositorio Git
-bash
-Copiar
-Editar
+
 git init
-9. Agregar y hacer commit
-bash
-Copiar
-Editar
+
+
+---
+## 9. Agregar y hacer commit
+
 git add .
 git commit -m "Primer commit del chatbot kawaii 🌸"
-🔗 10. Crear repositorio en GitHub
+
+---
+## 🔗 10. Crear repositorio en GitHub
+
 Ir a https://github.com
 
 Clic en “New repository”
@@ -111,43 +106,48 @@ Nombrarlo como Tarea-2-D
 
 Crear sin seleccionar README
 
-🔌 11. Conectar proyecto local a GitHub
-bash
-Copiar
-Editar
+---
+## 🔌 11. Conectar proyecto local a GitHub
+
 git remote add origin https://github.com/TU_USUARIO/Tarea-2-D.git
 git branch -M main
-(Reemplaza TU_USUARIO por tu nombre de usuario en GitHub)
 
-📤 12. Subir archivos al repositorio
-bash
-Copiar
-Editar
+---
+## 📤 12. Subir archivos al repositorio
+
 git push -u origin main
-Si pide usuario y contraseña:
 
-Usuario → tu nombre de usuario de GitHub
+Si tu usuario pide contraseña: 
 
-Contraseña → un token personal
+Usuario → tu nombre de usuario en GitHub
 
-📁 Estructura del proyecto
-plaintext
-Copiar
-Editar
+Contraseña → un token personal de https://github.com/settings/tokens
+
+---
+## 📁 Estructura del proyecto
+
+
 TAREA_2_ANIME/
 ├── chatbot.py       → Código principal
 ├── README.md        → Explicación completa del proyecto
 ├── .gitignore       → Para ignorar el entorno virtual
 └── venv/            → Entorno virtual (ignorado por Git)
-📽 Material de apoyo
+
+---
+## 📽 Material de apoyo
+
 🔗 Video – Cómo usar la API de DeepSeek
 
-👩‍💻 Autores
-Cristian Olarte, Ana Vargas y Andres Badillo
-Estudiantes de ingenieria de telecomunicaciones
-Universidad Santo Tomás – Bogotá, D.C. – 2025
-💖 "Programando con estilo, desu~ uwu~"
+---
+## 👩‍💻 Autores
+
+Cristian Olarte, Ana Vargas y Andres Badillo :D
+
+Universidad Santo Tomas
+
+Ingenieria de telecomunicaciones
 
 
-![Banner del chatbot kawaii](https://github.com/ElCristinini/Tarea-2-D/raw/main/portada.png)
+💖 "Programando con ternura, desu~"
+
 
