@@ -148,4 +148,5 @@ Estudiantes de ingenieria de telecomunicaciones
 Universidad Santo Tomás – Bogotá, D.C. – 2025
 💖 "Programando con estilo, desu~ uwu~"
 
-![Imagen de WhatsApp 2025-04-16 a las 20 48 30_dc103f1f](https://github.com/user-attachments/assets/6c381be5-89a5-4d62-830c-aac6abbe7fcf)
+![chatbot funcionamiento](https://github.com/user-attachments/assets/8dacd295-b55b-4773-b925-043d354ca35f)
+
