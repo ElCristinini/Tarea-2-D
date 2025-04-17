@@ -148,5 +148,6 @@ Estudiantes de ingenieria de telecomunicaciones
 Universidad Santo Tomás – Bogotá, D.C. – 2025
 💖 "Programando con estilo, desu~ uwu~"
 
-![chatbot funcionamiento](https://github.com/user-attachments/assets/8dacd295-b55b-4773-b925-043d354ca35f)
+
+![Banner del chatbot kawaii](https://github.com/ElCristinini/Tarea-2-D/raw/main/portada.png)
 
