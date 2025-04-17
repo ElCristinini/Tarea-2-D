@@ -129,8 +129,11 @@ Contraseña → un token personal de https://github.com/settings/tokens
 
 TAREA_2_ANIME/
 ├── chatbot.py       → Código principal
+
 ├── README.md        → Explicación completa del proyecto
+
 ├── .gitignore       → Para ignorar el entorno virtual
+
 └── venv/            → Entorno virtual (ignorado por Git)
 
 ---
