@@ -155,3 +155,6 @@ Ingenieria de telecomunicaciones
 💖 "Programando con ternura, desu~"
 
 
+https://github.com/ElCristinini/Tarea-2-D/blob/main/chatbot%20funcionamiento.jpg
+
+
