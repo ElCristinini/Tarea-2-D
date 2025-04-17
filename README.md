@@ -127,7 +127,8 @@ Contraseña → un token personal de https://github.com/settings/tokens
 ## 📁 Estructura del proyecto
 
 
-TAREA_2_ANIME/
+TAREA-2-D/
+
 ├── chatbot.py       → Código principal
 
 ├── README.md        → Explicación completa del proyecto
