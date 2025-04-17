@@ -142,8 +142,8 @@ TAREA_2_ANIME/
 📽 Material de apoyo
 🔗 Video – Cómo usar la API de DeepSeek
 
-👩‍💻 Autor
-Cristian Olarte
-Estudiante de Ingeniería Electrónica
+👩‍💻 Autores
+Cristian Olarte, Ana Vargas y Andres Badillo
+Estudiantes de ingenieria de telecomunicaciones
 Universidad Santo Tomás – Bogotá, D.C. – 2025
 💖 "Programando con estilo, desu~ uwu~"
