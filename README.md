@@ -157,4 +157,8 @@ Ingenieria de telecomunicaciones
 
 https://github.com/ElCristinini/Tarea-2-D/blob/main/chatbot%20funcionamiento.jpg
 
-
+---
+##Video del chatbot
+Este video muestra el funcionamiento del chatbot, entonces, para verlo, se debe:
+1.) Ingresar al video que tiene nombre de numeros
+2.) descargar el archivo, para eso, nos vamos al link donde dice "View Raw", se empezara a descargar y ahi se vera el funcionamiento del mismo.
