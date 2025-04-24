@@ -38,3 +38,5 @@ Para que el chatbot funcione correctamente, asegúrate de tener instalados los s
     Paquete requests (puedes instalarlo con pip install requests)
 
 Además, necesitarás una API Key válida de DeepSeek para autenticar las solicitudes y obtener respuestas.
+
+Este Readme fue creado para la explicacion de todas las personalidades en general
